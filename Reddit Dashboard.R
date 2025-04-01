@@ -8,8 +8,8 @@ library(shinydashboard)
 library(DT)
 
 # API credentials
-client_id <- "d2yo3oVT6LiWMK4cA-zqaA"
-client_secret <- "SR3dAWQyst01GYxHEAF4Ag3C8GFufw"
+client_id <- "YOUR_CLIENT_ID"
+client_secret <- "YOUR_CLIENT_SECRET"
 user_agent <- "RedditDashboardApp/0.1"
 
 # Function to get access token
