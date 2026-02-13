@@ -1,6 +1,16 @@
-# Reddit Dashboard
+Reddit Dashboard
 
-A powerful and interactive dashboard built with R Shiny that visualizes Reddit data from any subreddit. This dashboard provides real-time insights into Reddit posts, including engagement metrics, author statistics, and temporal patterns.
+A powerful and interactive dashboard built with R Shiny that visualizes Reddit data from any subreddit. This dashboard provides real-time insights into Reddit posts, including engagement metrics, author statistics, and temporal patterns
+
+Project Write-Up
+
+For a detailed explanation of the product thinking, design decisions, and development process behind this dashboard, read the full Medium article:
+
+🔗 Medium Blog: [Insert Medium Article Link Here]
+
+For a deep technical breakdown of the architecture, OAuth flow, reactive design, and implementation details, see:
+
+📄 Technical Documentation:TECHNICAL_DETAILS.md
 
 ## Features
 
